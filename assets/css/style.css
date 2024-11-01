@@ -23,6 +23,16 @@ h1, h2 {
     border-radius: 0;
 }
 
+.general-button {
+    background-color: #1f7798;
+    border: #1f7798;
+}
+
+.general-button:hover {
+    background-color: #1d6d8a;
+    border: #1d6d8a;
+}
+
 /* Hero section */
 
 #hero {
